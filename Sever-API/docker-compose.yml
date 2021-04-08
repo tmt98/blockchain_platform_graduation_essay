@@ -1,0 +1,7 @@
+version: "2"
+services:
+  deepstreamioserver:
+    image: deepstreamio/deepstream.io:latest
+    ports:
+      - "6020:6020"
+    container_name: deepstreammio

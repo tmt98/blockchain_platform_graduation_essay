@@ -1,0 +1,11 @@
+{
+    "host": "localhost",
+    "port": "9999",
+    "jwt_expresstime": "36000",
+    "admins": [
+        {
+            "username": "admin",
+            "secret": "adminpw"
+        }
+    ]
+}

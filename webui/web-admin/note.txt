@@ -1,0 +1,13 @@
+var firebaseConfig = {
+    apiKey: "AIzaSyDUnozcahXIVhLOFxSNsyzmiXUa6sefkTY",
+    authDomain: "iotbaseonfabric.firebaseapp.com",
+    databaseURL: "https://iotbaseonfabric.firebaseio.com",
+    projectId: "iotbaseonfabric",
+    storageBucket: "iotbaseonfabric.appspot.com",
+    messagingSenderId: "1028990275388",
+    appId: "1:1028990275388:web:398fbc8ae9a8446c559839",
+    measurementId: "G-JHZP0BRYCN"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();

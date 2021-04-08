@@ -1,0 +1,9 @@
+.intro-2 {
+  background: url("https://mdbootstrap.com/img/Photos/Others/img (51).jpg")
+    no-repeat center center;
+  background-size: cover;
+}
+.view {
+  /* margin-top: -56px; */
+  height: 100%;
+}

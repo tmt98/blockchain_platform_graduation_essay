@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "976679303624",
+    "firebase_url": "https://luanvan-iot-final.firebaseio.com",
+    "project_id": "luanvan-iot-final",
+    "storage_bucket": "luanvan-iot-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976679303624:android:214be80b86dd32a946a8fd",
+        "android_client_info": {
+          "package_name": "com.iotmobileappfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976679303624-42h4idcj1epmc96j49dvgmo2shisg0iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iotmobileappfinal",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "976679303624-ejpbb5ikor6b6tk3cm5r73i9vaeurhdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPAcLgsHoreREGgCdXOQ4Rv01ITSeYoA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976679303624-ejpbb5ikor6b6tk3cm5r73i9vaeurhdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
