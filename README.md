@@ -9,4 +9,4 @@
 <h4>API Server: Node.js</h4>
 <h4>Front-end Web: ReactJS</h4>
 <h4>Mobile App: React Native</h4>
-<h4>Orther: Firebase, Deepstream.io</h4>
+<h4>Orther: Firebase, Deepstream.io, Waspmote</h4>
